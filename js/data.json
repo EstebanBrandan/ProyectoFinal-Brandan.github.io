@@ -1,0 +1,12 @@
+[
+    {"codigo": 1, "nombre": "SMART TV", "marca": "LG" , "precio": 200000},
+    {"codigo": 2, "nombre": "SMART TV", "marca": "PHILLIPS", "precio": 240000},
+    {"codigo": 3, "nombre": "SMART TV", "marca": "SAMSUNG", "precio": 75000},
+    {"codigo": 4, "nombre": "CONSOLA", "marca": "SONY", "precio": 219000},
+    {"codigo": 5, "nombre": "CELULAR", "marca": "SAMSUNG", "precio": 89000},
+    {"codigo": 6, "nombre": "CELULAR", "marca": "APPLE", "precio": 250000},
+    {"codigo": 7, "nombre": "CELULAR", "marca": "XIAOMI", "precio": 35000},
+    {"codigo": 8, "nombre": "CELULAR", "marca": "LG", "precio": 54000},
+    {"codigo": 9, "nombre": "CELULAR", "marca": "MOTOROLA", "precio": 67000},
+    {"codigo": 10, "nombre": "TABLET", "marca": "APPLE", "precio": 149000}
+]
